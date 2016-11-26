@@ -1,8 +1,4 @@
 <?php 
-    //TODO:
-    //about
-    //contact
-    //package source
     
     $domain = "localhost:8000";
     $title = "articles";
